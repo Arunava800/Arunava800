@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst and Machine Learning Engineer
 ------------------------------------------
 
-I am a data analyst and currently pursuing Machine Learning!!!!
+Data analyst, Machine Learning and AI Engineer!!!!
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [arunava800@gmail.com](mailto:arunava800@gmail.com)
