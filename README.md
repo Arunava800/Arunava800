@@ -27,7 +27,9 @@ src="https://img.shields.io/github/followers/Arunava800?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Arunava800" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.github.com/Arunava800" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="www.linkedin.com/in/arunava-sengupta-25160824b" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg](https://www.google.com/imgres?q=svg%20file%20linkedin%20icon%20svg&imgurl=https%3A%2F%2Fwww.logo.wine%2Fa%2Flogo%2FLinkedIn%2FLinkedIn-Icon-Logo.wine.svg&imgrefurl=https%3A%2F%2Fwww.logo.wine%2Flogo%2FLinkedIn&docid=af6g7-rbPK4eZM&tbnid=HdPXfbi5yZy6iM&vet=12ahUKEwihs4WfwI6OAxWymK8BHT83Ix4QM3oECCMQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwihs4WfwI6OAxWymK8BHT83Ix4QM3oECCMQAA)" width="32" height="32" /></a></p>
 
 ### Badges
 
